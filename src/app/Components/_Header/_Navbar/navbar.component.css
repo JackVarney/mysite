@@ -1,8 +1,14 @@
 a{
     color: white;
+    height: 100%;
+    width: 100%;
 }
 
 div{
-    background-color: #2175aa;
+    background-color: whitesmoke;
     height: 100%;
+}
+
+.mybtn{
+    border-radius: 4px;
 }
